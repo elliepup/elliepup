@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Epic Gamer Moments
 
 You can use the [editor on GitHub](https://github.com/elliepup/elliepup/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
